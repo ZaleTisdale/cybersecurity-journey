@@ -4,6 +4,7 @@
 
 ## Resources
 - [TCM Security Official Course](https://academy.tcm-sec.com/).
+(https://tcm-sec.com/pass-the-psaa-exam/)
 - [TryHackMe SOC Level 1 Path](https://tryhackme.com/).
 
 ## Progress
